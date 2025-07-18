@@ -1,3 +1,11 @@
+
+Segunda Parte de Proyecto Inventario, relacionado al frontend con Angular.
+<img width="1077" height="424" alt="image" src="https://github.com/user-attachments/assets/c707e401-459a-4752-9fff-6d235dda705c" />
+
+<img width="1175" height="514" alt="image" src="https://github.com/user-attachments/assets/78c74dc0-6982-41d9-a9fe-384aceb29085" />
+
+
+
 # InventarioApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.4.
